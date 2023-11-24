@@ -1,0 +1,1 @@
+Pārbaudes darbs Pythonā sniedza iespēju novērtēt prasmes kodēšanā, risinot uzdevumus un izmantojot programmēšanas konceptus. Es domāju ka man gāja labi un tiku ar visu veiksmīgi galā.
